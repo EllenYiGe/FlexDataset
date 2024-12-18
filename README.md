@@ -1,5 +1,5 @@
 # FlexDataset
-This repository contains the code and materials for our **AAAI 2024 paper**:  
+This repository contains the code and materials for our paper:  
 **FlexDataset: Crafting Annotated Dataset Generation for Diverse Applications.**
 
 ![Paper](https://img.shields.io/badge/Paper-arXiv-red) 
