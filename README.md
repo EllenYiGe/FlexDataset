@@ -3,10 +3,10 @@ This repository contains the code and materials for our paper:
 **FlexDataset: Crafting Annotated Dataset Generation for Diverse Applications.**
 
 ![Paper](https://img.shields.io/badge/Paper-arXiv-red) 
-![Project](https://img.shields.io/badge/Project-Page-brightgreen) 
+[![Project](https://img.shields.io/badge/Project-Page-brightgreen)](https://www.ellenyige.com/FlexDataset/) 
 ![License](https://img.shields.io/badge/License-MIT-blue) 
-Project Page: https://ellenyige.github.io/flexdataset/
-<!-- ![Visitors](https://img.shields.io/badge/visitors-4095-blue) -->
+
+[Project Page](https://www.ellenyige.com/FlexDataset/)
 ---
 
 ## Experiments
